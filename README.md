@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/45dc3757-b7ea-47e2-9b65-9d7c19619b03)
+
 <p align="center">
   <img alt="Repo size"  src="https://img.shields.io/github/repo-size/geovaneborba/ftr-pos-api-docs?color=4f46e5&style=for-the-badge">
   <img alt="GitHub top language"  src="https://img.shields.io/github/languages/top/geovaneborba/ftr-pos-api-docs?color=4f46e5&style=for-the-badge">
